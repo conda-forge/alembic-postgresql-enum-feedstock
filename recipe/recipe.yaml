@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.11.0"
+  version: "1.11.1"
 
 package:
   name: alembic-postgresql-enum
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/a/alembic-postgresql-enum/alembic_postgresql_enum-${{ version }}.tar.gz
-  sha256: e23d6fbff376fa33f2ac62089b4d14ee7cb99ca6bf327e28b3c0947af002159c
+  sha256: 66277c112ef86c30c73e06bfb6deedd4cb62ec0a9e6017bcaee0c0d43a085f23
 
 build:
   number: 0
